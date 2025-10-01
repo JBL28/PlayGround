@@ -10,7 +10,7 @@
 
 *간단한 문서 동기화 실험 프로젝트입니다. HTTP PATCH 기반 메시징을 이용해 문서를 업데이트합니다.*
 
-
+![구조도](https://github.com/JBL28/PlayGround/blob/main/resources/images/DocSync_V1_Architecture.png?raw=true)
 
 **메시지 예시**
 ``` JSON
